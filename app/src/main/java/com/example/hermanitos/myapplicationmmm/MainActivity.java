@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
      * The {@link ViewPager} that will host the section contents.
      */
     private ViewPager mViewPager;
-//ESTO ES PARA COLOCAR EJEMPLO DE NADA SIRVE ----111
+//ESTO ES PARA COLOCAR EJEMPLO DE NADA SIRVE ----1U
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
